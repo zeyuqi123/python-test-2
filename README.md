@@ -1,2 +1,3 @@
 # python-test-2
-print('Zeyu q
+print('Zeyu qi')
+print('Hello world')
